@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, rgb(91, 250, 255) , rgb(153, 153, 233),rgb(118, 235, 118));
+
+    text-align: center;
+
+    background-color: red;
+color: white;
+padding:200px;
+border: 50px;
+}
